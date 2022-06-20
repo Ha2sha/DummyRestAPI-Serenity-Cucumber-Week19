@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing the employee features on the Dummy Rest API application","Create a new employee & verify if the employee is added","SUCCESS","2022-06-20T22:37:58.837+01:00[Europe/London]","0.0","6.31"
+"Testing the employee features on the Dummy Rest API application","Updating the employee created and verify it is updated with status 200","SUCCESS","2022-06-20T22:38:06.493+01:00[Europe/London]","0.0","0.62"
+"Testing the employee features on the Dummy Rest API application","Deleting the employee created and verify it is deleted","SUCCESS","2022-06-20T22:38:07.222+01:00[Europe/London]","0.0","0.63"
